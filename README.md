@@ -21,3 +21,6 @@ Soon
 
 ### Taken Inspiration from
 ``https://github.com/android-linux-stable/notes``
+and
+``https://forum.xda-developers.com/t/reference-merge-latest-caf-tag-in-kernel.3787564/``
+``https://forum.xda-developers.com/t/reference-merge-latest-caf-tag-in-kernel.3787564/#post-78655851``

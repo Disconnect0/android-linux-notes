@@ -18,3 +18,6 @@ git merge FETCH_HEAD
 
 ### How to 
 Soon
+
+### Taken Inspiration from
+``https://github.com/android-linux-stable/notes``

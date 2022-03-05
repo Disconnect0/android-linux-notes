@@ -15,4 +15,4 @@ git merge FETCH_HEAD
 git fetch https://source.codeaurora.org/quic/la/platform/vendor/opensource/audio-kernel/ $CAF
 git merge FETCH_HEAD
 
-echo "Done Fetching and It's Ready to be Commited just use the command "git push""
+echo "Done Fetching and It's Ready to be Committed just use the command "git push""

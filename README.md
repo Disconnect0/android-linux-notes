@@ -1,7 +1,7 @@
 ﻿# android-linux-notes
 
 ### Information
-Info about the Commands: 
+About the Commands: 
 
 ``git fetch``: Fetches the latest CAF Tag from the sources. Eg. 
 

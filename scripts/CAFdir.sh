@@ -7,7 +7,7 @@ read Kernel
 echo "What is the Latest CAF Tag of your Chipset/Device"
 read CAF
 
-echo "Where's your Kernel Location? (btw you dont need (~) just add the Directory of your Kernel"
+echo "Where's your Kernel Location? (btw you dont need (~) just add the Directory of your Kernel)"
 read KERNEL_DIR
 
 # All Stuffs Begins here

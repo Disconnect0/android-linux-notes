@@ -1,6 +1,6 @@
 #!/bin/sh
 echo "Check here to get latest CAF Tags: https://wiki.codeaurora.org/xwiki/bin/QAEP/release"
-echo "Place this in your Kernel Source"
+echo "Place this Script to your Kernel Source"
 echo "What is Your Kernel Version?"
 read Kernel
 

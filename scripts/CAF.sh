@@ -1,10 +1,10 @@
 #!/bin/sh
 echo "Check here to get latest CAF Tags: https://wiki.codeaurora.org/xwiki/bin/QAEP/release"
-
+echo "Place this in your Kernel Source"
 echo "What is Your Kernel Version?"
 read Kernel
 
-echo "what is your CAF Tag"
+echo "What is the Latest CAF Tag of your "
 read CAF
 
 echo "Fetching $CAF CAF Tag"

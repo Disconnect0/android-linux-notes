@@ -4,7 +4,7 @@ echo "Place this in your Kernel Source"
 echo "What is Your Kernel Version?"
 read Kernel
 
-echo "What is the Latest CAF Tag of your "
+echo "What is the Latest CAF Tag of your Chipset/Device"
 read CAF
 
 echo "Fetching $CAF CAF Tag"

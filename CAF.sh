@@ -1,5 +1,5 @@
 #!/bin/sh
-# Check here to get latest CAF Tags: https://wiki.codeaurora.org/xwiki/bin/QAEP/release
+echo "Check here to get latest CAF Tags: https://wiki.codeaurora.org/xwiki/bin/QAEP/release"
 echo "what is your CAF Tag"
 read CAF
 echo "Fetching $CAF"

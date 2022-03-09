@@ -1,6 +1,6 @@
 ﻿# android-linux-notes
 
-### Information
+## Information
 About the Commands: 
 
 ``git fetch``: Fetches the latest CAF Tag from the sources. Eg. 
@@ -16,10 +16,10 @@ git merge FETCH_HEAD
 ```
 
 
-### How to 
+## How to 
 Soon
 
-### Taken Inspiration from
+## Taken Inspiration from
 
 ``https://github.com/android-linux-stable/notes``
 
